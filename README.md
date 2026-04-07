@@ -1,4 +1,4 @@
-# The Pale Knight and The Stolen Bane
+# Echos of the Dark Flute
 
 > A 2D action-RPG dungeon crawler built with the Godot Engine.  
 > Developed as part of **CP3407 – Advanced Software Engineering**.
