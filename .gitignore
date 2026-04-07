@@ -1,0 +1,43 @@
+# Godot 4 - auto-generated cache (never commit these)
+.godot/
+
+# Exported builds
+export.cfg
+export_presets.cfg
+
+# Compiled translations (auto-generated)
+*.translation
+
+# Import metadata (auto-generated alongside assets)
+*.import
+
+# Unique ID files (Godot 4.3+, auto-generated)
+*.uid
+
+# Temp/backup files found in your project
+*.tmp
+*.bak
+
+# OS-specific junk (you have .DS_Store files in the zip)
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Godot editor personal settings
+.editor_settings-*.tres
+
+# Crash logs
+crashlog.txt
+
+# Backup files
+<<<<<<< HEAD
+*~
+=======
+*~
+>>>>>>> 8d9cd250bdaf4af3743b335c99f24a1ad5d76dd0

@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PlayerData" format=3 uid="uid://beywu4u562vej"]
+
+[ext_resource type="Script" uid="uid://bkhffgh0hjyxc" path="res://Player/PlayerData.gd" id="1_xjjgw"]
+
+[resource]
+script = ExtResource("1_xjjgw")
+max_hp = 12
+attack = 6
+defense = 5
+metadata/_custom_type_script = "uid://bkhffgh0hjyxc"

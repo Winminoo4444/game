@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="EnemyData" format=3 uid="uid://cuoewwwcc07dd"]
+
+[ext_resource type="Script" uid="uid://b2vracauv2kgr" path="res://Enemies/EnemyData.gd" id="1_5qam1"]
+
+[resource]
+script = ExtResource("1_5qam1")
+attack = 2
+defense = 0
+xp_reward = 10
+metadata/_custom_type_script = "uid://b2vracauv2kgr"

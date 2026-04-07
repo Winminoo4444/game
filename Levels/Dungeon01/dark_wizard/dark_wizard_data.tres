@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="BossData" format=3 uid="uid://boepejhu82ka"]
+
+[ext_resource type="Script" uid="uid://s6pj4th434ta" path="res://Levels/Dungeon01/dark_wizard/BossData.gd" id="1_grkge"]
+
+[resource]
+script = ExtResource("1_grkge")
+max_hp = 100
+xp_reward = 67
+metadata/_custom_type_script = "uid://s6pj4th434ta"

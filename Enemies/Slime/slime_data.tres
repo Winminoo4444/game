@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="EnemyData" format=3 uid="uid://iww0j8vdfq5w"]
+
+[ext_resource type="Script" uid="uid://b2vracauv2kgr" path="res://Enemies/EnemyData.gd" id="1_25tb0"]
+
+[resource]
+script = ExtResource("1_25tb0")
+name = "Slime"
+hp = 3
+attack = 1
+defense = 0
+metadata/_custom_type_script = "uid://b2vracauv2kgr"
