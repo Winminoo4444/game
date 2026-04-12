@@ -1,24 +1,24 @@
-# Godot 4 - auto-generated cache (never commit these)
+# Godot 4
 .godot/
 
 # Exported builds
 export.cfg
 export_presets.cfg
 
-# Compiled translations (auto-generated)
+# Compiled translations
 *.translation
 
-# Import metadata (auto-generated alongside assets)
+# Import metadata
 *.import
 
-# Unique ID files (Godot 4.3+, auto-generated)
+# Unique ID files
 *.uid
 
-# Temp/backup files found in your project
+# Temp/backup files
 *.tmp
 *.bak
 
-# OS-specific junk (you have .DS_Store files in the zip)
+# OS-specific junks
 .DS_Store
 Thumbs.db
 __MACOSX/
